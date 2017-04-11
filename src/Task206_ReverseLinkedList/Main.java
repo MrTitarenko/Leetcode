@@ -2,7 +2,7 @@ package Task206_ReverseLinkedList;
 
 public class Main {
     public static void main(String[] args) {
-        Solution1 solution = new Solution1();
+        Solution3 solution = new Solution3();
 
         ListNode listNode1 = new ListNode(1);
         ListNode listNode2 = new ListNode(2);
